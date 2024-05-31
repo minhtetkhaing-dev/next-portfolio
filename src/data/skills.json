@@ -1,0 +1,62 @@
+{
+    "programmings" : [
+        {
+            "title" : "Python",
+            "imagePath" : "/images/python.jpg"
+        },
+        {
+            "title" : "Javascript",
+            "imagePath" : "/images/JS.png"
+        },
+        {
+            "title" : "PHP",
+            "imagePath" : "/images/PHP.svg"
+        },
+        {
+            "title" : "TypeScript",
+            "imagePath" : "/images/TS.svg"
+        }
+    ],
+    "frameworks" : [
+        {
+            "title" : "Odoo",
+            "imagePath" : "/images/odoo.png"
+        },
+        {
+            "title" : "Django",
+            "imagePath" : "/images/django.png"
+        },
+        {
+            "title" : "Laravel",
+            "imagePath" : "/images/laravel.png"
+        },
+        {
+            "title" : "NextJs",
+            "imagePath" : "/images/next.png"
+        }
+    ],
+    "databases" : [
+        {
+            "title" : "MySql",
+            "imagePath" : "/images/mysql.jpg"
+        },
+        {
+            "title" : "Postgres",
+            "imagePath" : "/images/postgres.png"
+        }
+    ],
+    "others" : [
+        {
+            "title" : "Bootstrap",
+            "imagePath" : "/images/bootstrap.png"
+        },
+        {
+            "title" : "Tailwind",
+            "imagePath" : "/images/tailwind.png"
+        },
+        {
+            "title" : "Git",
+            "imagePath" : "/images/git.png"
+        }
+    ]
+}
