@@ -57,6 +57,10 @@
         {
             "title" : "Git",
             "imagePath" : "/images/git.png"
+        },
+        {
+            "title" : "jQuery",
+            "imagePath" : "/images/jquery.png"
         }
     ]
 }
